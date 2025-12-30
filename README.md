@@ -40,6 +40,9 @@ After training with **XGBoost**, the following observations were made:
 * **Profile Dominance:** Features associated with the *Integrated Profile* (especially kurtosis and mean) demonstrated significantly higher predictive power than the DM-SNR curve variables.
 * **Effectiveness:** The model achieves high precision in separating real signals from noise, streamlining the process of astronomical identification.
 
+
+-------------------------------------------------------------
+
 <a name="español"></a>
 ## Versión en Español
 
